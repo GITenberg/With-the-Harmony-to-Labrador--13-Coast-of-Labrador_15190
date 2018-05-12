@@ -1,0 +1,34 @@
+_repo: With-the-Harmony-to-Labrador--13-Coast-of-Labrador_15190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Trobe, Benjamin
+    aliases:
+    - Trobe, Benjamin La
+    - Latrobe, Benjamin
+    birthdate: 1725
+    deathdate: 1786
+    gutenberg_agent_id: '5909'
+    url: http://www.gutenberg.org/2009/agents/5909
+description: ''
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labrador (N.L.) -- Description and travel'
+- !lcc 'E011'
+- !lcsh 'Inuit -- Missions'
+- !lcc 'F1001'
+- !lcsh 'Indians of North America -- Missions'
+- !lcsh 'Moravian Indians -- Missions'
+title: "With the Harmony to Labrador\r\nNotes of a Visit to the Moravian Mission Stations\
+  \ on the North-East\r\nCoast of Labrador"
+url: http://www.gutenberg.org/ebooks/15190
