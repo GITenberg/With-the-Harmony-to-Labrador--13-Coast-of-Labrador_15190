@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5909'
     url: http://www.gutenberg.org/2009/agents/5909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15190#With-the-Harmony-to-Labrador--13-Coast-of-Labrador
 gutenberg_issued: '2005-02-27'
 gutenberg_type: Text
 identifiers:
